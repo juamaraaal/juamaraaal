@@ -2,7 +2,7 @@
 💻 Estudante de Informática com Ensino Médio integrado no Instituto Federal Catarinense - Campus Blumenau
 <br>
 ### Experiência com:
-[![](https://skillicons.dev/icons?i=html,css,js,py,mysql)]
+![](https://skillicons.dev/icons?i=html,css,js,py,mysql)
 (https://skillicons.dev)
 <br>
 <br>
