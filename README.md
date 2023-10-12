@@ -3,7 +3,6 @@
 <br>
 ### Experiência com:
 ![](https://skillicons.dev/icons?i=html,css,js,py,mysql)
-(https://skillicons.dev)
 <br>
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juamaraaal&layout=compact&theme=tokyonight&hide_border=true)
